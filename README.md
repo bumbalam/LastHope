@@ -5,6 +5,7 @@ _**Name of the animation**_ is an animation with a beautiful graphic style, whic
 ## Main Features
 * 3D and 2D animation combined
 * Semicartoon
+* Silent animation
 * Colorfull
 * Detailed environment
 
