@@ -1,6 +1,6 @@
 ![](https://github.com/bumbalam/LastHope/blob/master/ArtSources/Logo/lasthope_logo_banner.png)
 
-_**Name of the animation**_ is an animation with a beautiful graphic style, which tells a little story of romance between two people. One day they have to separate from each other for external reasons. After a while they meet again, but something will have changed.
+_**Last Hope**_ is the name of my end of course project. The animation will tell a short story about two sisters and the power that love has between them. The idea is that the animation, be colorful and a combination of 3D with 2D.
 
 ## Main Features
 * 3D and 2D animation combined
