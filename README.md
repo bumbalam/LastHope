@@ -1,4 +1,4 @@
-## _Name of the animation_
+![](https://github.com/bumbalam/LastHope/blob/master/ArtSources/Logo/lasthope_logo_banner.png)
 
 _**Name of the animation**_ is an animation with a beautiful graphic style, which tells a little story of romance between two people. One day they have to separate from each other for external reasons. After a while they meet again, but something will have changed.
 
